@@ -1,0 +1,17 @@
+{
+  "GitRepos": {
+    "vendor/src/github.com/aws/aws-sdk-go": {
+      "URI": "https://github.com/aws/aws-sdk-go",
+      "Ref": "8b5caddfbe095f9c51fe3127f55a731d7623e0d7"
+    },
+    "vendor/src/github.com/go-ini/ini": {
+      "URI": "https://github.com/go-ini/ini",
+      "Ref": "12f418cc7edc5a618a51407b7ac1f1f512139df3"
+    },
+    "vendor/src/github.com/jmespath/go-jmespath": {
+      "URI": "https://github.com/jmespath/go-jmespath",
+      "Ref": "0b12d6b521d83fc7f755e7cfc1b1fbdd35a01a74"
+    }
+  },
+  "MercurialRepos": {}
+}
